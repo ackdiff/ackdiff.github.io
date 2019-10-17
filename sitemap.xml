@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ackdiff.github.io/tags/index.html</loc>
+    <loc>https://ackdiff.github.io/friends/index.html</loc>
     
-    <lastmod>2019-10-12T04:41:16.943Z</lastmod>
+    <lastmod>2019-10-17T15:08:29.234Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ackdiff.github.io/friends/index.html</loc>
+    <loc>https://ackdiff.github.io/about/index.html</loc>
     
-    <lastmod>2019-10-12T04:41:16.939Z</lastmod>
+    <lastmod>2019-10-17T14:39:28.591Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ackdiff.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-10-12T04:41:16.943Z</lastmod>
     
   </url>
   
@@ -33,13 +40,6 @@
     <loc>https://ackdiff.github.io/archives/index.html</loc>
     
     <lastmod>2019-10-12T04:41:16.927Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ackdiff.github.io/about/index.html</loc>
-    
-    <lastmod>2019-10-12T04:41:16.921Z</lastmod>
     
   </url>
   
